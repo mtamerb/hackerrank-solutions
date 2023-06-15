@@ -8,8 +8,9 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-.idea
-.iml*
+hackerrank-solutions.iml
+.idea/
+
 # AWS User-specific
 .idea/**/aws.xml
 
