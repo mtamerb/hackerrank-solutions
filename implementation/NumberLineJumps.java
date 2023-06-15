@@ -11,7 +11,7 @@ public class NumberLineJumps {
             int loc1 = x1 + (v1 * k);
             int loc2 = x2 + (v2 * k);
             k++;
-
+    
             if (loc1 == loc2) {
                 message = "YES";
                 break;
